@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Jihyung Yoo
+name: Jaehoon Sun
 
 # Username (this should match the folder name)
 authors:
-- admin
+- sun
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Automotive Engineering
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mechanical Engineering
-    institution: Stanford University
-    year: 2011
-  - course: MS in  Mechanical Engineering
-    institution: Stanford University
-    year: 2009
-  - course: BS in Mechanical Engineering
+  - course: MS in  Automotive Engineering
     institution: Hanyang University
-    year: 2005
+    year: 2016
+  - course: BS in Materials Engineering
+    institution: Hongik University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -65,11 +62,11 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups: ["Principal Investigators"]
-# - Researchers
-# - Visitors
+user_groups: ["Grad Students"]
+#- Researchers
+#- Visitors
 ---
 
-Jihyung Yoo is an assistant professor of automotive engineering at the Hanyang University. His research interests include thermofluidics, photonics, and high performance computing. He is the principal investigator of the Digial Energy Systems group, which focuses on automotive energy system integration, computational design, and optical sensing.
+# Jihyung Yoo is an assistant professor of automotive engineering at the Hanyang University. His research interests include thermofluidics, photonics, and high performance computing. He is the principal investigator of the Digial Energy Systems group, which focuses on automotive energy system integration, computational design, and optical sensing.
 
-He teaches courses in thermodyniamics, fluid mechanics, statistics, numerical methods, and optical sensing. He also oversees the automotive engineering department senior capstone projects.
+# He teaches courses in thermodyniamics, fluid mechanics, statistics, numerical methods, and optical sensing. He also oversees the automotive engineering department senior capstone projects.
