@@ -10,33 +10,28 @@
 
 [[main]]
   name = "Research"
-  url = "#Reserach"
+  url = "#projects"
   weight = 20
-
-[[main]]
-  name = "Research"
-  url = "#Reserach"
-  weight = 30
 
 [[main]]
   name = "People"
   url = "#people"
-  weight = 50
+  weight = 30
 
 [[main]]
-  name = "Research"
-  url = "#Reserach"
-  weight = 60
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 70
+  name = "News"
+  url = "#posts"
+  weight = 40
 
 [[main]]
   name = "Publications"
-  url = "#featured"
-  weight = 80
+  url = "#publications"
+  weight = 50
+
+[[main]]
+  name = "Resources"
+  url = "#projects"
+  weight = 70
 
 [[main]]
   name = "Contact"
