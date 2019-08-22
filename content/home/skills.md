@@ -16,20 +16,20 @@ subtitle = ""
 
 [[feature]]
   icon = "charging-station"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Automotive thermal managmement"
-  description = "e-drivetrain\\batteries"
+  description = "e-drivetrains \n batteries"
   
 [[feature]]
   icon = "server"
   icon_pack = "fas"
   name = "Multiphyiscal modeling & analysis"
-  description = "CFD\\FEM"  
+  description = "CFD \n FEM"  
   
 [[feature]]
   icon = "search"
   icon_pack = "fas"
   name = "Sensing & Sensor integration"
-  description = "Optical\\chemical"
+  description = "optical \n chemical"
 
 +++

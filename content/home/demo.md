@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "TAS Lab @ Hanyang U"
-subtitle = "Department of Automotive Engineering"
+title = "Thermal Analysis & Sensing Research Group"
+subtitle = "Department of Automotive Engineering \n Hanyang University"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -25,15 +25,15 @@ subtitle = "Department of Automotive Engineering"
   # color = "navy"
   
   # Background gradient.
-  #gradient_start = "DarkGreen"
-  #gradient_end = "ForestGreen"
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -47,11 +47,11 @@ subtitle = "Department of Automotive Engineering"
  css_class = ""
 +++
 
-Department of Automotive Engineering,
-Hanyang University
 
+Welcome to the **TASR group ** 
 
-Welcome to the **Academic Kickstart** template!
+We are interested in understanding & managing the thermal impact of *e*-mobility solutions.
+We rely on computational models and real-world sensors to optimize and enhance energy system durability and performance.
 
 Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
 
