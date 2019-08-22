@@ -24,16 +24,12 @@ subtitle = ""
   icon = "server"
   icon_pack = "fas"
   name = "Multiphyiscal modeling & analysis"
-  description = """CFD
-    FEM
-  """  
+  description = "CFD \r\n FEM"
   
 [[feature]]
   icon = "search"
   icon_pack = "fas"
   name = "Sensing & Sensor integration"
-  description = '''optical 
-    chemical
-  '''
+  description = "optical <br> chemical"
 
 +++

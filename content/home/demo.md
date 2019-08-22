@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Thermal Analysis & Sensing Research Group"
-subtitle = "Department of Automotive Engineering \n Hanyang University"
+subtitle = "Department of Automotive Engineering @ Hanyang University"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
