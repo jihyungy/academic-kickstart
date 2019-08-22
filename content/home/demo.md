@@ -37,7 +37,7 @@ subtitle = "Department of Automotive Engineering @ Hanyang University"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["50px", "0", "50px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -47,5 +47,5 @@ subtitle = "Department of Automotive Engineering @ Hanyang University"
  css_class = ""
 +++
 
-Our research group is focused on understanding & managing the thermal impact of *e*-mobility solutions.
+## We are focused on understanding & managing thermal impacts of *e*-mobility solutions ##
 
