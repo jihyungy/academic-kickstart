@@ -47,5 +47,4 @@ subtitle = "Department of Automotive Engineering @ Hanyang University"
  css_class = ""
 +++
 
-## We are focused on understanding & managing thermal impacts of *e*-mobility solutions ##
 
