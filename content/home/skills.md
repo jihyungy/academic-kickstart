@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "charging-station"
+  icon = "temperature-high"
   icon_pack = "fas"
   name = "Automotive thermal managmement"
   description = "e-drivetrains \n batteries"
@@ -24,7 +24,7 @@ subtitle = ""
   icon = "server"
   icon_pack = "fas"
   name = "Multiphyiscal modeling & analysis"
-  description = """CFD \n FEM"""  
+  description = """CFD \ FEM"""  
   
 [[feature]]
   icon = "search"
