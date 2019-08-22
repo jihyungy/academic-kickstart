@@ -18,18 +18,22 @@ subtitle = ""
   icon = "temperature-high"
   icon_pack = "fas"
   name = "Automotive thermal managmement"
-  description = "e-drivetrains \n batteries"
+  description = "e-drivetrains \u000A batteries"
   
 [[feature]]
   icon = "server"
   icon_pack = "fas"
   name = "Multiphyiscal modeling & analysis"
-  description = """CFD \ FEM"""  
+  description = """CFD
+    FEM
+  """  
   
 [[feature]]
   icon = "search"
   icon_pack = "fas"
   name = "Sensing & Sensor integration"
-  description = "optical \n chemical"
+  description = '''optical 
+    chemical
+  '''
 
 +++
