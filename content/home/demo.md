@@ -47,10 +47,5 @@ subtitle = "Department of Automotive Engineering @ Hanyang University"
  css_class = ""
 +++
 
-
-Welcome to the **TASR group** 
-
-Our research group focuses on understanding & managing the thermal impact of *e*-mobility solutions.
-
-We utilize computational models and real-world sensors to optimize and enhance energy system durability and performance.
+Our research group is focused on understanding & managing the thermal impact of *e*-mobility solutions.
 

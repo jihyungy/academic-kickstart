@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Research Interests"
 subtitle = ""
@@ -15,16 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "temperature-high"
+  icon = "thermometer-three-quarters"
   icon_pack = "fas"
   name = "Automotive thermal managmement"
-  description = "e-drivetrains \u000A batteries"
+  description = "e-drivetrains <br> batteries"
   
 [[feature]]
   icon = "server"
   icon_pack = "fas"
   name = "Multiphyiscal modeling & analysis"
-  description = "CFD \r\n FEM"
+  description = "CFD <br> FEM"
   
 [[feature]]
   icon = "search"
