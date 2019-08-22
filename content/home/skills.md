@@ -24,7 +24,8 @@ subtitle = ""
   icon = "server"
   icon_pack = "fas"
   name = "Multiphyiscal modeling & analysis"
-  description = "CFD \n FEM"  
+  description = """CFD 
+   FEM"""  
   
 [[feature]]
   icon = "search"
