@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "charging-station"
   icon_pack = "fab"
-  name = "Energy systems"
-  description = "Sustainable automotive energy systems"
+  name = "Automotive thermal managmement"
+  description = "e-drivetrain\\batteries"
   
 [[feature]]
   icon = "server"
   icon_pack = "fas"
-  name = "Modeling & Analysis"
-  description = "100%"  
+  name = "Multiphyiscal modeling & analysis"
+  description = "CFD\\FEM"  
   
 [[feature]]
-  icon = "server"
+  icon = "search"
   icon_pack = "fas"
   name = "Sensing & Sensor integration"
-  description = "10%"
+  description = "Optical\\chemical"
 
 +++
