@@ -25,15 +25,15 @@ subtitle = "Department of Automotive Engineering @ Hanyang University"
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
+  gradient_start = "DarkGreen"
+  gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = false
+  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
