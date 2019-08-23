@@ -49,3 +49,5 @@ subtitle = ""
 
 Information regarding our cluster can be found [here]({{< ref "/assets/index.md" >}})
 
+Information regarding how to acces our cluster can be found [here]({{< ref "/howto/index.md" >}})
+

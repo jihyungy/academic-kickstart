@@ -26,10 +26,6 @@ subtitle = ""
   #   tag = "*"
   
   [[content.filter_button]]
-    name = "Thermal analysis"
-    tag = "Thermal analysis"
-  
-  [[content.filter_button]]
     name = "Modeling"
     tag = "Modeling"
 
