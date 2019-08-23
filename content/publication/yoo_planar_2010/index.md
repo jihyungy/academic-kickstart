@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Experiments in Fluids"
-publication_short: "	Exp. Fluids"
+publication_short: "Exp. Fluids"
 
 abstract: "The planar laser-induced fluorescence (PLIF) imaging method was used to perform flow visualization and quantitative planar thermometry in shock tube flow fields using toluene as a fluorescence tracer in nitrogen. Fluorescence quantum yield values needed to quantify PLIF images were measured in a static cell at low pressures (1 bar) for various toluene partial pressures in nitrogen bath gas. Images behind incident and reflected shocks were taken in the core flow away from regions affected by boundary layers. Temperature measurements from these images were successfully compared with predicted values using ideal shock equations. Measured temperatures ranged between 296 and 800 K and pressures between 0.15 and 1.5 atm. The average temperature discrepancies between measurements and the predicted values behind the incident and reflected shocks were 1.6 and 3.6%, respectively. Statistical analyses were also conducted to calculate the temperature measurement uncertainty as a function of image resolution. The technique was also applied to the study of more complex supersonic flows, specifically the interaction of a moving shock with a wedge. Measured temperatures agreed well with the results of numerical simulations in all inviscid regions, and all pertinent features of the single Mach reflection were resolved."
 

@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "JP-5 and HRJ-5 Autoignition Characteristics and Surrogate Modeling"
-authors: [C Allen, D Valco, E Toulson, JH Yoo, T Lee]
-date: 2013-12-00T00:00:00+00:00
+authors: [C Allen, D Valco, E Toulson, J Yoo, T Lee]
+date: 2013-12-01T00:00:00+00:00
 doi: "10.1021/ef401629d"
 
 # Schedule page publish date (NOT publication's date).
