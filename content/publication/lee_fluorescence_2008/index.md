@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Detection of trace nitric oxide concentrations using 1-D laser-induced fluorescence imaging"
-authors: [J Yoo, T Lee, JB Jeffries, RK Hanson]
-date: 2008-05-01T00:00:00+00:00
-doi: "10.1007/s00340-008-3030-6"
+title: "Fluorescence quantum yield of carbon dioxide for quantitative UV laser-induced fluorescence in high-pressure flames"
+authors: [T Lee, WG Bessler, J Yoo, C Schulz, JB Jeffries, RK Hanson]
+date: 2008-09-01T00:00:00+00:00
+doi: "10.1007/s00340-008-3161-9"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-08-23T09:57:16+09:00
@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "Applied Physics B"
 publication_short: "Appl. Phys. B"
 
-abstract: "Spectrally resolved laser-induced fluorescence (LIF) with one-dimensional spatial imaging was investigated as a technique for detection of trace concentrations of nitric oxide (NO) in high-pressure flames. Experiments were performed in the burnt gases of premixed methane/argon/oxygen flames with seeded NO (15 to 50 ppm), pressures of 10 to 60 bar, and an equivalence ratio of 0.9. LIF signals were dispersed with a spectrometer and recorded on a 2-D intensified CCD array yielding both spectral resolution and 1-D spatial resolution. This method allows isolation of NO-LIF from interference signals due to alternative species (mainly hot O2 and CO2) while providing spatial resolution along the line of the excitation laser. A fast data analysis strategy was developed to enable pulse-by-pulse NO concentration measurements from these images. Statistical analyses as a function of laser energy of these single-shot data were used to determine the detection limits for NO concentration as well as the measurement precision. Extrapolating these results to pulse energies of ∼ 16 mJ/pulse yielded a predicted detection limit of ∼ 10 ppm for pressures up to 60 bar. Quantitative 1-D LIF measurements were performed in CH4/air flames to validate capability for detection of nascent NO in flames at 10–60 bar."
+abstract: "The fluorescence quantum yield for ultraviolet laser-induced fluorescence of CO2 is determined for selected excitation wavelengths in the range 215–250 nm. Wavelength-resolved laser-induced fluorescence (LIF) spectra of CO2, NO, and O2 are measured in the burned gases of a laminar CH4/air flame (φ=0.9 and 1.1) at 20 bar with additional NO seeded into the flow. The fluorescence spectra are fit to determine the relative contribution of the three species to infer an estimate of fluorescence quantum yield for CO2 that ranges from 2–8×10−6 depending on temperature and excitation wavelength with an estimated uncertainty of ±0.5×10−6. The CO2 fluorescence signal increases linearly with gas pressure for flames with constant CO2 mole fraction for the 10 to 60 bar range, indicating that collisional quenching is not an important contributor to the CO2 fluorescence quantum yield. Spectral simulation calculations are used to choose two wavelengths for excitation of CO2, 239.34 and 242.14 nm, which minimize interference from LIF of NO and O2. Quantitative LIF images of CO2 are demonstrated using these two excitation wavelengths and the measured fluorescence quantum yield."
 
 # Summary. An optional shortened abstract.
 summary: ""
