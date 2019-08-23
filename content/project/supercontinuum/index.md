@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Low-temperature fuel pyrolysis diagnostics using SCLAS"
-summary: ""
+summary: "High-speed chemical kinetics diagnostics"
 authors: [admin]
 tags: [Sensing]
 categories: []

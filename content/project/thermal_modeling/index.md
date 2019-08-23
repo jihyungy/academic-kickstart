@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "3D thermal modeling of electric motor using OpenFOAM"
-summary: ""
+summary: "Analysing transient 3D model of an electric motor using CFD"
 authors: [admin]
 tags: [Modeling]
 categories: []
