@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "3D thermal modeling of electric motor for automotive propulsion using OpenFOAM"
+title: "3D thermal modeling of electric motor using OpenFOAM"
 summary: ""
 authors: [admin]
 tags: [Modeling]
@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-Advanced 
+Advanced automotive e-drive systems are being thermally-throttled, however 
