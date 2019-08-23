@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include automotive energy system integration, computational design, and optical sensing.
+bio: Tenacity gets me where I want to go, gratitude doesn't allow me to be angry along the way
 
 interests:
 - Energy system integration

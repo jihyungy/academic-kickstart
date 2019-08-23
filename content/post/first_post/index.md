@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Website redesigned"
+title: "A new website"
 subtitle: "A lightweight website based on Hugo"
 summary: ""
 authors: [admin]
 tags: []
 categories: []
-date: 2019-08-23T11:30:42+09:00
-lastmod: 2019-08-23T11:30:42+09:00
+date: 2019-08-23T11:30:00+09:00
+lastmod: 2019-08-23T11:30:00+09:00
 featured: false
 draft: false
 
@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-## Our website has just been redesigned for Fall 2019 ##
+Our website has just been redesigned for Fall 2019
 
 

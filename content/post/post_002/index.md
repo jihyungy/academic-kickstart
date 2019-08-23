@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Second_post"
-subtitle: ""
+title: "A new name"
+subtitle: "Our research group has a new name"
 summary: ""
-authors: []
+authors: [admin]
 tags: []
 categories: []
 date: 2019-08-23T11:30:21+09:00
@@ -27,3 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Hopefully, the new name sticks
+
+Feedback is always welcome.
