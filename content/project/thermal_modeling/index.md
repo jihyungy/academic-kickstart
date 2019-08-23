@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Thermal_modeling"
+title: "3D thermal modeling of electric motor for automotive propulsion using OpenFOAM"
 summary: ""
-authors: []
-tags: []
+authors: [admin]
+tags: [Modeling]
 categories: []
 date: 2019-08-23T15:21:17+09:00
 
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Advanced 
