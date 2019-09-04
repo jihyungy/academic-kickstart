@@ -14,10 +14,21 @@ header:
   image: ""
 ---
 
-We are proud to have built our first ever HPC computing cluster. A quick look at its specs are as follows:
+The Department of Automotive Engineering maintains a small HPC cluster, nicknamed Marvin, for scientific computing. The linux cluster is accessible to AE research labs. 
 
-#### Chaser ####
-* 200 Intel Xeon CPU cores
+### Hardware specs ###
+
+#### Front-end server ####
+This server is only for interactive use, job submissions, and debugging code. Users may not run software on the server.
+
+* URL: marvin.hanyang.tech
+* Processors: Dual 6-cores @ 2.6 GHz
+* Main memory size: 32 GB
+* Operating system: Linux (CentOS 7.6)
+
+#### Compute nodes ####
+* 10 nodes
+* Dual 10-core compute nodes
 * 1.5TB DDR3 RAM
 * Mellanox Infiniband
 * 3.5 TFLOPS
