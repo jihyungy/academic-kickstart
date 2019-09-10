@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Thermal Management & Instrumentation Lab"
+title = "Thermal Analysis & Instrumentation Lab"
 subtitle = "Dept of Automotive Engineering @ Hanyang University"
 
 [design]
@@ -47,4 +47,4 @@ subtitle = "Dept of Automotive Engineering @ Hanyang University"
  css_class = ""
 +++
 
-
+Welcome to our research group. We are dedicated to enhancing the sustainability & efficiency of e-powertrain and energy storage systems for future EVs and autonomous vehicles.
